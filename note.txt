@@ -1,0 +1,4 @@
+1.enum的实现
+2.insert igore
+3.重写构造函数
+4.重写exception
